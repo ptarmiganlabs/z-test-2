@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.2.0](https://www.github.com/mountaindude/z-test-2/compare/v1.1.0...v1.2.0) (2021-07-07)
+
+
+### Features
+
+* 4b ([4042eb3](https://www.github.com/mountaindude/z-test-2/commit/4042eb3cba97ce6d659621676dc55db0dab657cb))
+* 4c ([df5349c](https://www.github.com/mountaindude/z-test-2/commit/df5349cdf540a640ed7aa1e0a755ca74d034cd93))
+
+
+### Bug Fixes
+
+* 4a ([0b9adc2](https://www.github.com/mountaindude/z-test-2/commit/0b9adc227624edc530c830e32e695cffb0cbad29))
+
 ## [1.1.0](https://www.github.com/mountaindude/z-test-2/compare/v1.0.0...v1.1.0) (2021-07-07)
 
 
