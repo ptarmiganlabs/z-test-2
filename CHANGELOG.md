@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.2.1](https://www.github.com/ptarmiganlabs/z-test-2/compare/v1.2.0...v1.2.1) (2021-07-07)
+
+
+### Bug Fixes
+
+* 5a ([4fa453d](https://www.github.com/ptarmiganlabs/z-test-2/commit/4fa453d751119395cb6fce94aed566866d9e139b))
+
 ## [1.2.0](https://www.github.com/mountaindude/z-test-2/compare/v1.1.0...v1.2.0) (2021-07-07)
 
 
